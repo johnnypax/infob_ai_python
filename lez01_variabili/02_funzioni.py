@@ -31,3 +31,30 @@
 # -------------------------------
 # Dato l'elenco delle ore di lezione [3,3,4,3,3] stampare in maniera
 # automatica (con un ciclo) il totale delle ore
+
+# ore = [3,3,4,3,3]
+# somma = 0
+
+# for o in ore:
+#     somma += o
+
+# print(somma)
+
+# -------------------------- FUNZIONI
+
+def calcola_priorita(testo):
+    if "urgente" in testo.lower():
+        return "alta"
+    elif "problema" in testo.lower():
+        return "media"
+    elif "errore" in testo.lower():
+        return "attenzione"
+    else:
+        return "bassa"
+
+# print( calcola_priorita("URGENTE: server down") )
+# print( calcola_priorita("Vorrei informazioni sul corso") )
+
+assert calcola_priorita("Urgente!") == "alta"
+assert calcola_priorita("ciao") == "bassa"
+assert calcola_priorita("Giovanni") == "bassa"
