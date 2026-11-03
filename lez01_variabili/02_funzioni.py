@@ -13,3 +13,18 @@
 
 # print(f"Priorità assegnata: {priorita}")
 
+# ----------------------------- LISTE
+# lista_canali = ["email", "telefono", "chat", 3, True, "😍"]
+# lista_canali.append("Giovanni")
+
+# # print(lista_canali)
+# # print( len(lista_canali) )
+
+# for canale in lista_canali:
+#     print(f"Richiesta arrivata da: {canale}")
+
+#########
+
+# for i in range(7):
+#     print("numero", i)
+
