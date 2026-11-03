@@ -26,8 +26,42 @@
 # print( type(corso_attivo) )
 
 # Verifica del tipo
-a = "Ciao"
-a = 5           # Non Type-Safe
-a = "🤣"
+# a = "Ciao"
+# a = 5           # Non Type-Safe
+# a = "🤣"
 
-print(type(a))
+# print(type(a))
+
+## ---------------------- OPERAZIONI CON NUMERI
+
+# print(7 / 2)     # 1             # CPU ONLY - NO RAM
+# print(7 / 2)    # 1
+# print(7 / 2)    # 1
+# print(7 / 2)    # 1
+
+# risultato = 7 / 2  # 2              # CPU + RAM
+# print(risultato) # 0
+# print(risultato) # 0
+# print(risultato) # 0
+# print(risultato) # 0
+
+# print(7 / 2)    # divisione
+# print(7 // 2)   # divisione intera
+# print(7 % 4)    # resto                 7 = 4 -> 3
+# print(3 ** 3)   # potenza
+
+# print(10 % 2 == 0)
+
+## -------------------- OPERAZIONI SU STRINGHE
+
+# richiesta = "  URGENTE: non riesco ad accedere alla piattaforma   "
+# print( richiesta )
+# print( richiesta.strip() )
+# print( richiesta.lower() )
+
+# print( richiesta.strip().lower() )  # 102 -> OK
+# print( richiesta.lower().strip() )  # 108
+
+# print( len(richiesta.strip()) )
+# # print( len(5) ) # ERRORE
+# print("urgente" in richiesta.lower())
