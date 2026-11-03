@@ -77,6 +77,6 @@
 # parola = "Giovanni"
 # print( parola[0], parola[-1], parola[0:3] )
 
-matricola = "AB-2027"
-print( matricola[3:7] )
-print( matricola[-4:] )
+# matricola = "AB-2027"
+# print( matricola[3:7] )
+# print( matricola[-4:] )
