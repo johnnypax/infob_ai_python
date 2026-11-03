@@ -65,3 +65,11 @@
 # print( len(richiesta.strip()) )
 # # print( len(5) ) # ERRORE
 # print("urgente" in richiesta.lower())
+
+# ------------------------------- Interpolazione
+# studente = "Giovanni Pace"
+# ore = 35.5
+
+# # print(studente + " ha frequentato " + ore + "ore") # ERRORE, int non compatibile
+# print(f"{studente} ha frequentato {ore} ore")
+# print(f"La somma di 5 + 2 è: {5 + 2}")
