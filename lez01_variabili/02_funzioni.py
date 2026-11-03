@@ -28,3 +28,6 @@
 # for i in range(7):
 #     print("numero", i)
 
+# -------------------------------
+# Dato l'elenco delle ore di lezione [3,3,4,3,3] stampare in maniera
+# automatica (con un ciclo) il totale delle ore
