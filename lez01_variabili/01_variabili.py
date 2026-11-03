@@ -73,3 +73,10 @@
 # # print(studente + " ha frequentato " + ore + "ore") # ERRORE, int non compatibile
 # print(f"{studente} ha frequentato {ore} ore")
 # print(f"La somma di 5 + 2 è: {5 + 2}")
+
+# parola = "Giovanni"
+# print( parola[0], parola[-1], parola[0:3] )
+
+matricola = "AB-2027"
+print( matricola[3:7] )
+print( matricola[-4:] )
