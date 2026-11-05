@@ -19,5 +19,7 @@ numeri = [5,8,1,0,2,3]
 # print( sorted(numeri) )
 # print( numeri )
 
-numeri.sort()
-print(numeri)
+# numeri.sort()
+# print(numeri)
+
+print(numeri[3])
