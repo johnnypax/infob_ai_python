@@ -1,0 +1,92 @@
+id;data;tipo;fonte;tratto;zona;lat;lon
+S011;2025-01-01;Griglia o tombino intasato;Telefono;T06;Zona B;44.547118;11.748306
+S019;2025-01-02;Rifiuti o detriti in alveo;Squadra in servizio;T08;Zona A;44.555003;11.562688
+S060;2025-01-06;Canale ostruito da vegetazione;Squadra in servizio;T15;Zona C;44.506165;11.586853
+S007;2025-01-07;Allagamento di campo o strada;Email;T04;Zona B;44.547108;11.679362
+S023;2025-01-12;Griglia o tombino intasato;Telefono;T08;Zona A;44.560613;11.56181
+S084;2025-01-19;Rifiuti o detriti in alveo;Telefono;T20;Zona D;44.525687;11.757657
+S041;2025-01-29;Griglia o tombino intasato;Squadra in servizio;T13;Zona B;44.580296;11.716714
+S020;2025-02-03;Canale ostruito da vegetazione;Squadra in servizio;T08;Zona A;44.557386;11.56235
+S080;2025-02-06;Rifiuti o detriti in alveo;Telefono;T20;Zona D;44.528481;11.758759
+S032;2025-02-16;Sponda franata;Email;T09;Zona A;44.579385;11.558134
+S005;2025-02-27;Canale ostruito da vegetazione;Squadra in servizio;T03;Zona A;44.546728;11.600601
+S087;2025-03-08;Canale ostruito da vegetazione;Squadra in servizio;T21;Zona D;44.493751;11.774279
+S077;2025-03-10;Sponda franata;App;T18;Zona D;44.52347;11.722127
+S046;2025-03-14;Canale ostruito da vegetazione;App;T14;Zona C;44.54273;11.595538
+S050;2025-03-17;Sponda franata;Squadra in servizio;T15;Zona C;44.497646;11.582554
+S045;2025-03-18;Sponda franata;Email;T14;Zona C;44.535412;11.593557
+S089;2025-03-22;Rifiuti o detriti in alveo;Email;T21;Zona D;44.494706;11.773679
+S009;2025-03-23;Allagamento di campo o strada;Telefono;T05;Zona B;44.548092;11.705921
+S017;2025-03-26;Griglia o tombino intasato;Telefono;T07;Zona B;44.545348;11.792712
+S013;2025-03-27;Canale ostruito da vegetazione;App;T06;Zona B;44.546514;11.739714
+S067;2025-03-27;Sponda franata;Telefono;T16;Zona C;44.53866;11.640507
+S047;2025-03-28;Griglia o tombino intasato;Email;T14;Zona C;44.54533;11.594916
+S075;2025-04-03;Rifiuti o detriti in alveo;Telefono;T17;Zona C;44.496205;11.626099
+S008;2025-04-04;Griglia o tombino intasato;Squadra in servizio;T05;Zona B;44.547867;11.693736
+S015;2025-04-04;Griglia o tombino intasato;Squadra in servizio;T06;Zona B;44.547502;11.747487
+S027;2025-04-11;Sponda franata;Telefono;T09;Zona A;44.595585;11.552709
+S073;2025-04-11;Sponda franata;Email;T17;Zona C;44.509347;11.632457
+S090;2025-04-12;Griglia o tombino intasato;Squadra in servizio;T21;Zona D;44.511117;11.765234
+S012;2025-04-21;Griglia o tombino intasato;Telefono;T06;Zona B;44.548084;11.728873
+S039;2025-05-02;Allagamento di campo o strada;Telefono;T13;Zona B;44.594101;11.712251
+S004;2025-05-08;Allagamento di campo o strada;App;T03;Zona A;44.548221;11.627913
+S040;2025-05-09;Canale ostruito da vegetazione;Email;T13;Zona B;44.588839;11.71309
+S049;2025-05-21;Canale ostruito da vegetazione;Email;T14;Zona C;44.521608;11.594809
+S082;2025-05-23;Allagamento di campo o strada;Squadra in servizio;T20;Zona D;44.533393;11.759036
+S057;2025-05-24;Allagamento di campo o strada;Telefono;T15;Zona C;44.510622;11.590572
+S031;2025-06-01;Sponda franata;App;T09;Zona A;44.599606;11.551263
+S085;2025-06-01;Rifiuti o detriti in alveo;Telefono;T21;Zona D;44.496817;11.772101
+S071;2025-06-04;Rifiuti o detriti in alveo;Squadra in servizio;T17;Zona C;44.503264;11.629177
+S056;2025-06-06;Canale ostruito da vegetazione;Squadra in servizio;T15;Zona C;44.508867;11.587738
+S035;2025-06-12;Canale ostruito da vegetazione;Squadra in servizio;T09;Zona A;44.590678;11.554517
+S061;2025-06-16;Allagamento di campo o strada;Email;T16;Zona C;44.533402;11.638477
+S018;2025-06-19;Canale ostruito da vegetazione;Squadra in servizio;T07;Zona B;44.547062;11.77548
+S066;2025-06-21;Rifiuti o detriti in alveo;Email;T16;Zona C;44.538172;11.639207
+S059;2025-06-24;Allagamento di campo o strada;Email;T15;Zona C;44.511148;11.591023
+S063;2025-06-28;Canale ostruito da vegetazione;Telefono;T16;Zona C;44.537866;11.641055
+S091;2025-06-29;Allagamento di campo o strada;Squadra in servizio;T21;Zona D;44.503162;11.768029
+S055;2025-07-02;Allagamento di campo o strada;Squadra in servizio;T15;Zona C;44.513225;11.591508
+S033;2025-07-05;Griglia o tombino intasato;Telefono;T09;Zona A;44.587472;11.555367
+S025;2025-07-07;Canale ostruito da vegetazione;Squadra in servizio;T08;Zona A;44.563257;11.559045
+S081;2025-07-11;Sponda franata;Email;T20;Zona D;44.52666;11.760301
+S006;2025-07-14;Rifiuti o detriti in alveo;Email;T03;Zona A;44.546955;11.613454
+S016;2025-07-16;Canale ostruito da vegetazione;Telefono;T07;Zona B;44.546508;11.771891
+S024;2025-07-26;Sponda franata;Squadra in servizio;T08;Zona A;44.556022;11.56312
+S064;2025-07-29;Canale ostruito da vegetazione;Squadra in servizio;T16;Zona C;44.546521;11.6417
+S044;2025-07-31;Sponda franata;Email;T14;Zona C;44.540513;11.595665
+S026;2025-08-20;Sponda franata;Telefono;T08;Zona A;44.55539;11.562425
+S028;2025-08-25;Canale ostruito da vegetazione;Telefono;T09;Zona A;44.584273;11.556177
+S079;2025-08-27;Canale ostruito da vegetazione;Squadra in servizio;T20;Zona D;44.523863;11.757657
+S022;2025-08-30;Allagamento di campo o strada;Telefono;T08;Zona A;44.558554;11.562085
+S076;2025-08-30;Griglia o tombino intasato;Telefono;T18;Zona D;44.528443;11.722552
+S068;2025-09-02;Canale ostruito da vegetazione;Telefono;T17;Zona C;44.499357;11.628245
+S021;2025-09-04;Allagamento di campo o strada;Telefono;T08;Zona A;44.565558;11.560655
+S037;2025-09-05;Sponda franata;Telefono;T11;Zona A;44.596596;11.652323
+S078;2025-09-05;Sponda franata;Telefono;T19;Zona D;44.496945;11.712476
+S048;2025-09-07;Allagamento di campo o strada;Telefono;T14;Zona C;44.531539;11.593635
+S053;2025-09-09;Canale ostruito da vegetazione;Squadra in servizio;T15;Zona C;44.509993;11.589525
+S042;2025-09-10;Canale ostruito da vegetazione;Telefono;T14;Zona C;44.540571;11.592964
+S052;2025-09-13;Griglia o tombino intasato;Telefono;T15;Zona C;44.493511;11.581652
+S062;2025-09-14;Allagamento di campo o strada;Squadra in servizio;T16;Zona C;44.543262;11.641425
+S054;2025-09-15;Canale ostruito da vegetazione;Squadra in servizio;T15;Zona C;44.514666;11.591745
+S029;2025-09-26;Canale ostruito da vegetazione;Email;T09;Zona A;44.595763;11.551685
+S003;2025-09-29;Sponda franata;Email;T02;Zona A;44.548385;11.568373
+S051;2025-09-30;Griglia o tombino intasato;Squadra in servizio;T15;Zona C;44.51393;11.591383
+S014;2025-10-04;Griglia o tombino intasato;Squadra in servizio;T06;Zona B;44.546805;11.755805
+S043;2025-10-16;Griglia o tombino intasato;Squadra in servizio;T14;Zona C;44.535629;11.594628
+S070;2025-10-25;Rifiuti o detriti in alveo;App;T17;Zona C;44.503313;11.628729
+S086;2025-10-25;Canale ostruito da vegetazione;Telefono;T21;Zona D;44.515897;11.760939
+S030;2025-10-29;Allagamento di campo o strada;Squadra in servizio;T09;Zona A;44.596481;11.552443
+S038;2025-11-04;Rifiuti o detriti in alveo;Email;T11;Zona A;44.589357;11.653659
+S010;2025-11-13;Rifiuti o detriti in alveo;Telefono;T06;Zona B;44.546732;11.749046
+S001;2025-11-15;Canale ostruito da vegetazione;Telefono;T02;Zona A;44.545878;11.590224
+S036;2025-11-17;Sponda franata;Squadra in servizio;T10;Zona A;44.564797;11.649003
+S072;2025-11-23;Canale ostruito da vegetazione;App;T17;Zona C;44.498307;11.62701
+S088;2025-11-25;Rifiuti o detriti in alveo;Email;T21;Zona D;44.496297;11.770605
+S074;2025-11-29;Sponda franata;Squadra in servizio;T17;Zona C;44.494575;11.625164
+S069;2025-12-10;Allagamento di campo o strada;Telefono;T17;Zona C;44.514291;11.635019
+S065;2025-12-19;Canale ostruito da vegetazione;Telefono;T16;Zona C;44.522193;11.637773
+S083;2025-12-19;Allagamento di campo o strada;Telefono;T20;Zona D;44.536875;11.757728
+S002;2025-12-20;Griglia o tombino intasato;Squadra in servizio;T02;Zona A;44.547631;11.57955
+S058;2025-12-20;Allagamento di campo o strada;App;T15;Zona C;44.493442;11.581428
+S034;2025-12-26;Rifiuti o detriti in alveo;Telefono;T09;Zona A;44.593516;11.55185
