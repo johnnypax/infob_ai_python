@@ -5,6 +5,7 @@
 # from bs4 import BeautifulSoup
 import requests
 import spacy
+import json
 from bs4 import BeautifulSoup
 
 
@@ -19,8 +20,22 @@ testo = pagina.get_text()
 estrazione = nlp(testo)
 soggetti = []
 
+# Estrazione semplice
+# for token in estrazione:
+#     if token.dep_ == "nsubj" and token.head.dep_ == "ROOT":
+#         soggetti.append(token.text)
+
 for token in estrazione:
     if token.dep_ == "nsubj" and token.head.dep_ == "ROOT":
-        soggetti.append(token.text)
+        soggetti.append(
+            {
+                "text": token.text,
+                "pos": token.pos_,
+                "dep": token.dep_,
+                "lemma": token.lemma_,
+                "root": token.head.dep_
+            }
+        )
 
-print(soggetti)
+# print(soggetti)
+print( json.dumps(soggetti, indent=2) )
