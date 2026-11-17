@@ -1,0 +1,1 @@
+# Prevedere un sistema che, data una pagina web (indirizzo), estrae il suo contenuto con una lista di soggetti e complementi oggetto.
