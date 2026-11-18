@@ -25,7 +25,7 @@ lista_messaggi = [
     "Buongiorno, a che ora apre la mensa?",
 ]
 
-nlp = spacy.load('it_core_news_lg')
+nlp = spacy.load('it_core_news_sm')
 
 for messaggio in lista_messaggi:
     # punto 2
