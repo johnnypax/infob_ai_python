@@ -26,8 +26,15 @@ import pandas as pd
 
 # ----------------------------
 
-persone = ["Giovanni", "Valeria", "Maria"]
-invitati = pd.Series(persone)
+# persone = ["Giovanni", "Valeria", "Maria"]
+# invitati = pd.Series(persone)
 
-print(invitati.str.upper())
-print(invitati + "-TEST")
+# print(invitati.str.upper())
+# print(invitati + "-TEST")
+
+# -------------------
+
+numeri = [1,2,3,4,5]
+s_numeri = pd.Series(numeri)
+
+print(s_numeri * 100)
